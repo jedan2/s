@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{}
+    
+
+    
+/* hedder section start */
+header{
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 40px;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.menu-bar{
+    width: 80%;
+    float: left;
+    text-align: right;
+}
+.menu-bar ul{}
+.menu-bar ul li{
+    list-style: none;
+    display: inline-block;
+}
+.menu-bar ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    color: #848181;
+}
+.menu-bar ul li a:hover{
+    
+}
+.banner p{
+    margin: 30px;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #9a9696e0;
+}
+.banner img{
+    margin-top: 17px;
+}
+/* hedder section end */
+
+
+/* section tag start */
+
+
+
+section{
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 30px;
+}
+.article{}
+.article h2{
+    text-transform: capitalize;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: #565454e6;
+} 
+.article p{
+    font-size: 15px;
+    line-height: 21px;
+    color: #3e3c3cdb;
+}
+.article h5{
+    font-size: 12px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    word-spacing: 0px;
+    color: #9a9696e0;
+}
+
+
+/* row-1 strad */
+
+.row-01{
+    margin-top: 69px;
+}
+.colam-01{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    padding-right: 28px;
+}
+.colam-02{
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+    padding-left: 39px;
+}
+.colam-01 img{
+    max-width: 100%;
+    height: 320px;
+}
+.colam-02 img{
+    max-width: 100%;
+    height: 320px;
+}
+.colam-01 h5{
+    margin-top: 30px;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #9a9696e0;
+}
+.colam-02 h5{
+    margin-top: 30px;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #9a9696e0;
+}
+.colam-02 p{
+    margin-top: 25px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #2b2a2aba;
+}
+.colam-01 p{
+    margin-top: 25px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #2b2a2aba;
+}
+.colam-01 h2{
+    text-transform: capitalize;
+    margin-top: 25px;
+    color: #777;
+}
+.colam-02 h2{
+    text-transform: capitalize;
+    margin-top: 25px;
+    color: #777;
+}
+
+/* row-1 end */
+
+.row-2{
+     margin-top: 69px;
+}
+
+
+
+
+
+
+
